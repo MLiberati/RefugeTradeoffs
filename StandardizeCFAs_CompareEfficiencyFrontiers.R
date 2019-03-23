@@ -1,3 +1,8 @@
+# Produce Figures 3 in Liberati et al. (2019)
+# Title: "Addressing ecological, economic, and social tradeoffs of refuge expansion in a constrained landscape"
+# Journal: Landscape Ecology
+# DOI: 10.1007/s10980-019-00798-8
+
 remove(list=ls())
 
 ## R Libraries ##
