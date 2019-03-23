@@ -1,5 +1,10 @@
-## Adapted "inspyred_NSGAII_adaptedthread.py"
-## Link actual CFA parcel sets with algorithm
+## Code to run NSGA-II genetic algorithm used in Liberati et al. (2019)
+## Title: "Addressing ecological, economic, and social tradeoffs of refuge expansion in a constrained landscape"
+## Journal: Landscape Ecology
+## DOI: 10.1007/s10980-019-00798-8
+
+## Adapted "inspyred_NSGAII_adaptedthread.py" from A. Garret
+## https://pythonhosted.org/inspyred/
 
 # call modules
 import inspyred 
